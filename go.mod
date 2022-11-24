@@ -1,4 +1,4 @@
-module boat-io/canbus
+module github.com/boat-io/canbus
 
 go 1.19
 
